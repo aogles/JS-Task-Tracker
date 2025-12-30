@@ -16,6 +16,8 @@ User interaction: Click and keyboard events, making the app responsive to user a
 Data persistence: Demonstrates saving state for continuity, a skill important for web applications.
 Clean, maintainable code: Easy to extend with more features like filtering, deadlines, or syncing with backend systems.
 
+![Task Tracker Demo](assets/ScreenRecording2025-12-30at21.15.42-ezgif.com-video-to-gif-converter.gif)
+
 Future Enhancements
 
 Add categories or priorities for tasks
